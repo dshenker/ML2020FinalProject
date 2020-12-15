@@ -9,3 +9,7 @@ ML_Final_SVM_Details: notebook detailing training and evaluation of our baseline
 Machine_Learning_Final_DataProcessing: code detailing loading in the original data, performing pre-processing, running dlib, and creating the data splits
 
 ApplyingToYaleData: notebook where the models are applied to the Yale faces dataset.
+
+Final-Expression CNN with Transfer Learning: notebook using transfer learning to train a CNN on the github expression dataset. Also contains code originally used to train a CNN from scratch.
+
+Final-Expression Multitask CNN: notebook implementing multitask learning on top of transfer learning from ResNet18 on the github expression dataset.
